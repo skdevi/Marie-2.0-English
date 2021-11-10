@@ -23,7 +23,6 @@ Hello Darling {}, My Name is {}! If You Have Any Questions About How To Use Me P
 Im A Group Manager Bot Maintained By  [This Person](tg://user?id={}).
 
 I LOVE YOU Darling... I Kiss You... 😘😘😘
-
 """
 
 HELP_STRINGS = """
